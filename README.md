@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <h1 align="center">
-  <img src="assets/Panabit-灰字.png" alt="Panabit" width="240" height="72">
+  <img src="Assets/Panabit.png" alt="Panabit" width="240" height="72">
   <br>
   Panabit 智能应用网关
 </h1>
