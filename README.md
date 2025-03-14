@@ -9,8 +9,8 @@
 <div align="center">
   <a href="https://www.panabit.com/" style="color: #007bff; text-decoration: none; font-weight: bold;">官网</a> &nbsp;|&nbsp;
   <a href="https://bbs.panabit.com/" style="color: #007bff; text-decoration: none; font-weight: bold;">论坛</a> &nbsp;|&nbsp;
-  <a href="#" style="color: #007bff; text-decoration: none; font-weight: bold;">文档</a> &nbsp;|&nbsp;
-  <a href="#" style="color: #007bff; text-decoration: none; font-weight: bold;">使用手册</a>
+  <a href="Config/English Version" style="color: #007bff; text-decoration: none; font-weight: bold;">文档</a> &nbsp;|&nbsp;
+  <a href="Guide" style="color: #007bff; text-decoration: none; font-weight: bold;">使用手册</a>
 </div>
 
 <p align="center">
