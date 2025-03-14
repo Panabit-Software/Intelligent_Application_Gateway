@@ -96,7 +96,7 @@ Panabit Intelligent Application Gateway is divided into **AX, PA, PB, and PN ser
 ### 📌 SD-WAN Deployment
 - Addresses **branch interconnection, network congestion, complexity, and fault troubleshooting**;
 - Provides a **flexible, cost-effective WAN solution**, enhancing security and business adaptability.  
-  ![SD-WAN](Assets/SD-WAN.png)
+  ![SD-WAN](Assets/SDWAN_EN.png)
 
 ### 📌 Authentication Services
 - Supports **local, SMS, WeChat, and PPPoE authentication**;
