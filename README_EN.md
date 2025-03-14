@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://www.panabit.com/" style="color: #007bff; text-decoration: none; font-weight: bold;">Official Website</a> &nbsp;|&nbsp;
   <a href="https://bbs.panabit.com/" style="color: #007bff; text-decoration: none; font-weight: bold;">Forum</a> &nbsp;|&nbsp;
-  <a href="#" style="color: #007bff; text-decoration: none; font-weight: bold;">Documentation</a> &nbsp;|&nbsp;
+  <a href="Config/English Version" style="color: #007bff; text-decoration: none; font-weight: bold;">Documentation</a> &nbsp;|&nbsp;
   <a href="#" style="color: #007bff; text-decoration: none; font-weight: bold;">User Manual</a>
 </div>
 
