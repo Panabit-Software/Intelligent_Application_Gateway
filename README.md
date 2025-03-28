@@ -4,7 +4,7 @@
   <br>
   Panabit Intelligent Application Gateway
 </h1>
-<h4 align="center">Integrated Intelligent Application Gateway for Network Egress</h4>
+
 
 <div align="center">
   <a href="https://www.panabit.com/" style="color: #007bff; text-decoration: none; font-weight: bold;">Official Website</a> &nbsp;|&nbsp;
